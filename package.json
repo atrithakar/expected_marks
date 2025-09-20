@@ -1,0 +1,25 @@
+{
+  "name": "expected-marks",
+  "version": "1.0.0",
+  "description": "This package helps users to calculate their expected marks and thus predict if they will pass the exams or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrithakar/expected_marks.git"
+  },
+  "keywords": [
+    "expected",
+    "marks",
+    "exam",
+    "pass"
+  ],
+  "author": "Atri Thakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atrithakar/expected_marks/issues"
+  },
+  "homepage": "https://github.com/atrithakar/expected_marks#readme"
+}
